@@ -9,6 +9,7 @@ class Program
         Console.WriteLine("2 - Conversão de Fahrenheit para Celsius");
         Console.WriteLine("3 - Cálculo de Imposto em Dólares");
         Console.WriteLine("4 - Empréstimo com Juros");
+        Console.WriteLine("5 - Calcular Idade");
         Console.WriteLine("Digite o número do programa:");
 
         int escolha = int.Parse(Console.ReadLine());
@@ -25,6 +26,9 @@ class Program
                 CalcularImpostoEmDolares();
                 break;
             case 4:
+                CalcularEmprestimoComJuros();
+                break;
+            case 5:
                 CalcularEmprestimoComJuros();
                 break;
             default:
