@@ -109,19 +109,28 @@ class Program
 
         Console.WriteLine("O valor de cada parcela será: " + valorParcela.ToString("F2"));
     }
-
-    static void CalcularIdade(); 
+    static void CalcularIdade()
     {
         int ano, nasc, idade;
+        string maiorIdade;
 
         Console.WriteLine("Em que ano estamos");
         ano = int.Parse(Console.ReadLine());
 
         Console.WriteLine("Em que ano você nasceu ?");
         nasc = int.Parse(Console.ReadLine());
-        
+
         idade = ano - nasc;
 
-        Console.WriteLine("Em" + ano + " você terá " + idade " anos");
+        if(idade >= 21)
+        {
+            maiorIdade = "você será maior de idade!";
+        }
+        else
+        {
+            maiorIdade = "você ainda não é maior de idade!";
+        }
+
+        Console.WriteLine("Em " + ano + " você terá " + idade + " anos, e " + maiorIdade);
     }
 }
