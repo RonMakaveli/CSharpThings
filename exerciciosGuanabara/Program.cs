@@ -29,7 +29,7 @@ class Program
                 CalcularEmprestimoComJuros();
                 break;
             case 5:
-                CalcularEmprestimoComJuros();
+                CalcularIdade();
                 break;
             default:
                 Console.WriteLine("Escolha inválida. Programa encerrado.");
@@ -108,5 +108,20 @@ class Program
         Console.WriteLine("O valor total será de: " + total.ToString("F2") + " com " + porcentagem + " sobre o total ao mês");
 
         Console.WriteLine("O valor de cada parcela será: " + valorParcela.ToString("F2"));
+    }
+
+    static void CalcularIdade(); 
+    {
+        int ano, nasc, idade;
+
+        Console.WriteLine("Em que ano estamos");
+        ano = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Em que ano você nasceu ?");
+        nasc = int.Parse(Console.ReadLine());
+        
+        idade = ano - nasc;
+
+        Console.WriteLine("Em" + ano + " você terá " + idade " anos");
     }
 }
