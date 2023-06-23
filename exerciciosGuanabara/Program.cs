@@ -1,4 +1,5 @@
 using System;
+using System.Globalization;
 
 class Program
 {
@@ -10,6 +11,8 @@ class Program
         Console.WriteLine("3 - Cálculo de Imposto em Dólares");
         Console.WriteLine("4 - Empréstimo com Juros");
         Console.WriteLine("5 - Calcular Idade");
+        Console.WriteLine("6 - Par ou Impar");
+        Console.WriteLine("7 - Calcular IMC");
         Console.WriteLine("Digite o número do programa:");
 
         int escolha = int.Parse(Console.ReadLine());
@@ -30,6 +33,12 @@ class Program
                 break;
             case 5:
                 CalcularIdade();
+                break;
+            case 6:
+                ParOuImpar();
+                break;
+            case 7:
+                CalculoIMC();
                 break;
             default:
                 Console.WriteLine("Escolha inválida. Programa encerrado.");
@@ -132,5 +141,41 @@ class Program
         }
 
         Console.WriteLine("Em " + ano + " você terá " + idade + " anos, e " + maiorIdade);
+    }
+    static void ParOuImpar()
+    {
+        int n;
+        Console.WriteLine("Digite qualquer numero");
+        n = int.Parse(Console.ReadLine());
+        if(n % 2 == 0)
+        {
+            Console.WriteLine("o numero " + n + " é par");
+        }
+        else
+        {
+            Console.WriteLine("O numero " + n + " é impar");
+        }
+    }
+    static void CalculoIMC()
+    {
+        float massa, altura, imc;
+
+        Console.WriteLine("Massa (KG):");
+        massa= float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+        Console.WriteLine("Altura (M):");
+        altura= float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+        imc = massa / (altura * altura);
+   
+        Console.WriteLine("IMC: " + imc.ToString("0.00"));
+        if (imc >= 18.5 && imc < 25)
+        {
+            Console.WriteLine("Parabens! você está no seu peso ideal.");
+        }
+        else
+        {
+            Console.WriteLine("Você não está na faixa de peso ideal.");
+        }
     }
 }
