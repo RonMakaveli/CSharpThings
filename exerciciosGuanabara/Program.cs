@@ -216,5 +216,5 @@ class Program
             Console.WriteLine("O aluno está reprovado.");
         }
     }
-    }
 }
+
