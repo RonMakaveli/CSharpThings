@@ -13,6 +13,7 @@ class Program
         Console.WriteLine("5 - Calcular Idade");
         Console.WriteLine("6 - Par ou Impar");
         Console.WriteLine("7 - Calcular IMC");
+        Console.WriteLine("8 - Calcular Media");
         Console.WriteLine("Digite o número do programa:");
 
         int escolha = int.Parse(Console.ReadLine());
@@ -39,6 +40,9 @@ class Program
                 break;
             case 7:
                 CalculoIMC();
+                break;
+            case 8:
+                CalculoMedia();
                 break;
             default:
                 Console.WriteLine("Escolha inválida. Programa encerrado.");
@@ -177,5 +181,9 @@ class Program
         {
             Console.WriteLine("Você não está na faixa de peso ideal.");
         }
+    }
+    static void CalculoMedia()
+    {
+
     }
 }
