@@ -1,0 +1,17 @@
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\obj\Debug\desbloquear-usuário.csproj.AssemblyReference.cache
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\obj\Debug\desbloquear-usuário.csproj.SuggestedBindingRedirects.cache
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\obj\Debug\desbloquear-usuário.csproj.CoreCompileInputs.cache
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\bin\Debug\desbloquear-usuário.exe.config
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\bin\Debug\desbloquear-usuário.exe
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\bin\Debug\desbloquear-usuário.pdb
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\bin\Debug\System.Security.Permissions.dll
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\bin\Debug\System.Security.Permissions.xml
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\obj\Debug\desbloquear-usuário.csproj.CopyComplete
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\obj\Debug\desbloquear-usuário.exe
+C:\Users\ttc2478\source\repos\desbloquear-usuário\desbloquear-usuário\obj\Debug\desbloquear-usuário.pdb
