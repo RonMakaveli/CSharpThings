@@ -1,0 +1,15 @@
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\bin\Debug\net6.0\Calculadora.exe
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\bin\Debug\net6.0\Calculadora.dll
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\Calculadora.dll
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\Users\ttc2478\Downloads\calculadora-main\calculadora-main\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\ref\Calculadora.dll
