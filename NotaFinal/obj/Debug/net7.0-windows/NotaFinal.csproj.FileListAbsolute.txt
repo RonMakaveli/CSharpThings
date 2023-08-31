@@ -1,0 +1,17 @@
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\bin\Debug\net7.0-windows\NotaFinal.exe
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\bin\Debug\net7.0-windows\NotaFinal.deps.json
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\bin\Debug\net7.0-windows\NotaFinal.runtimeconfig.json
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\bin\Debug\net7.0-windows\NotaFinal.dll
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\bin\Debug\net7.0-windows\NotaFinal.pdb
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\obj\Debug\net7.0-windows\NotaFinal.csproj.AssemblyReference.cache
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\obj\Debug\net7.0-windows\NotaFinal.Form1.resources
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\obj\Debug\net7.0-windows\NotaFinal.csproj.GenerateResource.cache
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\obj\Debug\net7.0-windows\NotaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\obj\Debug\net7.0-windows\NotaFinal.AssemblyInfoInputs.cache
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\obj\Debug\net7.0-windows\NotaFinal.AssemblyInfo.cs
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\obj\Debug\net7.0-windows\NotaFinal.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\obj\Debug\net7.0-windows\NotaFinal.dll
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\obj\Debug\net7.0-windows\refint\NotaFinal.dll
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\obj\Debug\net7.0-windows\NotaFinal.pdb
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\obj\Debug\net7.0-windows\NotaFinal.genruntimeconfig.cache
+C:\Users\autologon\Desktop\RD - C#\NotaFinal\obj\Debug\net7.0-windows\ref\NotaFinal.dll
