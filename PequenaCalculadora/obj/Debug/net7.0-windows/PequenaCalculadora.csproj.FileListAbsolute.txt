@@ -1,0 +1,34 @@
+C:\Users\autologon\Desktop\PequenaCalculadora\bin\Debug\net7.0-windows\PequenaCalculadora.exe
+C:\Users\autologon\Desktop\PequenaCalculadora\bin\Debug\net7.0-windows\PequenaCalculadora.deps.json
+C:\Users\autologon\Desktop\PequenaCalculadora\bin\Debug\net7.0-windows\PequenaCalculadora.runtimeconfig.json
+C:\Users\autologon\Desktop\PequenaCalculadora\bin\Debug\net7.0-windows\PequenaCalculadora.dll
+C:\Users\autologon\Desktop\PequenaCalculadora\bin\Debug\net7.0-windows\PequenaCalculadora.pdb
+C:\Users\autologon\Desktop\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.csproj.AssemblyReference.cache
+C:\Users\autologon\Desktop\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.Form1.resources
+C:\Users\autologon\Desktop\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.csproj.GenerateResource.cache
+C:\Users\autologon\Desktop\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Desktop\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.AssemblyInfoInputs.cache
+C:\Users\autologon\Desktop\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.AssemblyInfo.cs
+C:\Users\autologon\Desktop\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.dll
+C:\Users\autologon\Desktop\PequenaCalculadora\obj\Debug\net7.0-windows\refint\PequenaCalculadora.dll
+C:\Users\autologon\Desktop\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.pdb
+C:\Users\autologon\Desktop\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.genruntimeconfig.cache
+C:\Users\autologon\Desktop\PequenaCalculadora\obj\Debug\net7.0-windows\ref\PequenaCalculadora.dll
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\bin\Debug\net7.0-windows\PequenaCalculadora.exe
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\bin\Debug\net7.0-windows\PequenaCalculadora.deps.json
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\bin\Debug\net7.0-windows\PequenaCalculadora.runtimeconfig.json
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\bin\Debug\net7.0-windows\PequenaCalculadora.dll
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\bin\Debug\net7.0-windows\PequenaCalculadora.pdb
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.csproj.AssemblyReference.cache
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.Form1.resources
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.csproj.GenerateResource.cache
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.AssemblyInfoInputs.cache
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.AssemblyInfo.cs
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.dll
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\obj\Debug\net7.0-windows\refint\PequenaCalculadora.dll
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.pdb
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\obj\Debug\net7.0-windows\PequenaCalculadora.genruntimeconfig.cache
+C:\Users\autologon\Desktop\RD - C#\PequenaCalculadora\obj\Debug\net7.0-windows\ref\PequenaCalculadora.dll
