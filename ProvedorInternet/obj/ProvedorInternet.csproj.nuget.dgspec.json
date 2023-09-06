@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\autologon\\Desktop\\RD - C#\\ProvedorInternet\\ProvedorInternet.csproj": {}
+    "C:\\Users\\yahik\\Desktop\\ProvedorInternet\\ProvedorInternet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\autologon\\Desktop\\RD - C#\\ProvedorInternet\\ProvedorInternet.csproj": {
+    "C:\\Users\\yahik\\Desktop\\ProvedorInternet\\ProvedorInternet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\autologon\\Desktop\\RD - C#\\ProvedorInternet\\ProvedorInternet.csproj",
+        "projectUniqueName": "C:\\Users\\yahik\\Desktop\\ProvedorInternet\\ProvedorInternet.csproj",
         "projectName": "ProvedorInternet",
-        "projectPath": "C:\\Users\\autologon\\Desktop\\RD - C#\\ProvedorInternet\\ProvedorInternet.csproj",
-        "packagesPath": "C:\\Users\\autologon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\autologon\\Desktop\\RD - C#\\ProvedorInternet\\obj\\",
+        "projectPath": "C:\\Users\\yahik\\Desktop\\ProvedorInternet\\ProvedorInternet.csproj",
+        "packagesPath": "C:\\Users\\yahik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yahik\\Desktop\\ProvedorInternet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\autologon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yahik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

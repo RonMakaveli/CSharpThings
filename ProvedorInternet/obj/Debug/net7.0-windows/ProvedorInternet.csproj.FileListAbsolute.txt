@@ -15,3 +15,20 @@ C:\Users\autologon\Desktop\RD - C#\ProvedorInternet\obj\Debug\net7.0-windows\ref
 C:\Users\autologon\Desktop\RD - C#\ProvedorInternet\obj\Debug\net7.0-windows\ProvedorInternet.pdb
 C:\Users\autologon\Desktop\RD - C#\ProvedorInternet\obj\Debug\net7.0-windows\ProvedorInternet.genruntimeconfig.cache
 C:\Users\autologon\Desktop\RD - C#\ProvedorInternet\obj\Debug\net7.0-windows\ref\ProvedorInternet.dll
+C:\Users\yahik\Desktop\ProvedorInternet\bin\Debug\net7.0-windows\ProvedorInternet.exe
+C:\Users\yahik\Desktop\ProvedorInternet\bin\Debug\net7.0-windows\ProvedorInternet.deps.json
+C:\Users\yahik\Desktop\ProvedorInternet\bin\Debug\net7.0-windows\ProvedorInternet.runtimeconfig.json
+C:\Users\yahik\Desktop\ProvedorInternet\bin\Debug\net7.0-windows\ProvedorInternet.dll
+C:\Users\yahik\Desktop\ProvedorInternet\bin\Debug\net7.0-windows\ProvedorInternet.pdb
+C:\Users\yahik\Desktop\ProvedorInternet\obj\Debug\net7.0-windows\ProvedorInternet.csproj.AssemblyReference.cache
+C:\Users\yahik\Desktop\ProvedorInternet\obj\Debug\net7.0-windows\ProvedorInternet.Form1.resources
+C:\Users\yahik\Desktop\ProvedorInternet\obj\Debug\net7.0-windows\ProvedorInternet.csproj.GenerateResource.cache
+C:\Users\yahik\Desktop\ProvedorInternet\obj\Debug\net7.0-windows\ProvedorInternet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahik\Desktop\ProvedorInternet\obj\Debug\net7.0-windows\ProvedorInternet.AssemblyInfoInputs.cache
+C:\Users\yahik\Desktop\ProvedorInternet\obj\Debug\net7.0-windows\ProvedorInternet.AssemblyInfo.cs
+C:\Users\yahik\Desktop\ProvedorInternet\obj\Debug\net7.0-windows\ProvedorInternet.csproj.CoreCompileInputs.cache
+C:\Users\yahik\Desktop\ProvedorInternet\obj\Debug\net7.0-windows\ProvedorInternet.dll
+C:\Users\yahik\Desktop\ProvedorInternet\obj\Debug\net7.0-windows\refint\ProvedorInternet.dll
+C:\Users\yahik\Desktop\ProvedorInternet\obj\Debug\net7.0-windows\ProvedorInternet.pdb
+C:\Users\yahik\Desktop\ProvedorInternet\obj\Debug\net7.0-windows\ProvedorInternet.genruntimeconfig.cache
+C:\Users\yahik\Desktop\ProvedorInternet\obj\Debug\net7.0-windows\ref\ProvedorInternet.dll
