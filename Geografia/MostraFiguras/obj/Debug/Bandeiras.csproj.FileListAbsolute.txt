@@ -1,0 +1,79 @@
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\bin\Debug\MostraFiguras.exe.config
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\bin\Debug\MostraFiguras.exe
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\bin\Debug\MostraFiguras.pdb
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.Form1.resources
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.Properties.Resources.resources
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\obj\Debug\Bandeiras.csproj.GenerateResource.Cache
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.exe
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.exe.config
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csprojResolveAssemblyReference.cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.Form1.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.Properties.Resources.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.GenerateResource.Cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.exe.config
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csprojAssemblyReference.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.Form1.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.Properties.Resources.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.GenerateResource.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.CoreCompileInputs.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2017 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.exe.config
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csprojAssemblyReference.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.Form1.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.Properties.Resources.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.GenerateResource.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.CoreCompileInputs.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.exe.config
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.AssemblyReference.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.Form1.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.Properties.Resources.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.GenerateResource.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.CoreCompileInputs.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 04 - TE - 2019 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.pdb
+C:\D\Aulas20232\TE\Aula 04 - TE - 2023 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.exe.config
+C:\D\Aulas20232\TE\Aula 04 - TE - 2023 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.exe
+C:\D\Aulas20232\TE\Aula 04 - TE - 2023 - exercícios Windows Form\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.pdb
+C:\D\Aulas20232\TE\Aula 04 - TE - 2023 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.AssemblyReference.cache
+C:\D\Aulas20232\TE\Aula 04 - TE - 2023 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.Form1.resources
+C:\D\Aulas20232\TE\Aula 04 - TE - 2023 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.Properties.Resources.resources
+C:\D\Aulas20232\TE\Aula 04 - TE - 2023 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.GenerateResource.cache
+C:\D\Aulas20232\TE\Aula 04 - TE - 2023 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.CoreCompileInputs.cache
+C:\D\Aulas20232\TE\Aula 04 - TE - 2023 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.exe
+C:\D\Aulas20232\TE\Aula 04 - TE - 2023 - exercícios Windows Form\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.pdb
+C:\Users\yahik\Desktop\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.exe.config
+C:\Users\yahik\Desktop\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.exe
+C:\Users\yahik\Desktop\Bandeiras\MostraFiguras\bin\Debug\MostraFiguras.pdb
+C:\Users\yahik\Desktop\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.AssemblyReference.cache
+C:\Users\yahik\Desktop\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.SuggestedBindingRedirects.cache
+C:\Users\yahik\Desktop\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.Form1.resources
+C:\Users\yahik\Desktop\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.Properties.Resources.resources
+C:\Users\yahik\Desktop\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.GenerateResource.cache
+C:\Users\yahik\Desktop\Bandeiras\MostraFiguras\obj\Debug\Bandeiras.csproj.CoreCompileInputs.cache
+C:\Users\yahik\Desktop\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.exe
+C:\Users\yahik\Desktop\Bandeiras\MostraFiguras\obj\Debug\MostraFiguras.pdb
+C:\Users\yahik\Desktop\Geografia\MostraFiguras\obj\Debug\Bandeiras.csproj.AssemblyReference.cache
+C:\Users\yahik\Desktop\Geografia\MostraFiguras\obj\Debug\Bandeiras.csproj.SuggestedBindingRedirects.cache
+C:\Users\yahik\Desktop\Geografia\MostraFiguras\obj\Debug\MostraFiguras.Form1.resources
+C:\Users\yahik\Desktop\Geografia\MostraFiguras\obj\Debug\Bandeiras.csproj.GenerateResource.cache
+C:\Users\yahik\Desktop\Geografia\MostraFiguras\obj\Debug\MostraFiguras.exe
+C:\Users\yahik\Desktop\Geografia\MostraFiguras\obj\Debug\MostraFiguras.pdb
+C:\Users\yahik\Desktop\Geografia\MostraFiguras\bin\Debug\MostraFiguras.exe.config
+C:\Users\yahik\Desktop\Geografia\MostraFiguras\bin\Debug\MostraFiguras.exe
+C:\Users\yahik\Desktop\Geografia\MostraFiguras\bin\Debug\MostraFiguras.pdb
+C:\Users\yahik\Desktop\Geografia\MostraFiguras\obj\Debug\MostraFiguras.Properties.Resources.resources
+C:\Users\yahik\Desktop\Geografia\MostraFiguras\obj\Debug\Bandeiras.csproj.CoreCompileInputs.cache

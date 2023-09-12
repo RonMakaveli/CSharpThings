@@ -1,0 +1,18 @@
+c:\users\mfple\documents\visual studio 2017\Projects\MostraFiguras\MostraFiguras\bin\Debug\MostraFiguras.exe.config
+c:\users\mfple\documents\visual studio 2017\Projects\MostraFiguras\MostraFiguras\bin\Debug\MostraFiguras.exe
+c:\users\mfple\documents\visual studio 2017\Projects\MostraFiguras\MostraFiguras\bin\Debug\MostraFiguras.pdb
+c:\users\mfple\documents\visual studio 2017\Projects\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.csprojResolveAssemblyReference.cache
+c:\users\mfple\documents\visual studio 2017\Projects\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.Form1.resources
+c:\users\mfple\documents\visual studio 2017\Projects\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.Properties.Resources.resources
+c:\users\mfple\documents\visual studio 2017\Projects\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.csproj.GenerateResource.Cache
+c:\users\mfple\documents\visual studio 2017\Projects\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.exe
+c:\users\mfple\documents\visual studio 2017\Projects\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.pdb
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\bin\Debug\MostraFiguras.exe.config
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\bin\Debug\MostraFiguras.exe
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\bin\Debug\MostraFiguras.pdb
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.csprojResolveAssemblyReference.cache
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.Form1.resources
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.Properties.Resources.resources
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.csproj.GenerateResource.Cache
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.exe
+C:\Users\mfple\Desktop\MostraFiguras\MostraFiguras\obj\Debug\MostraFiguras.pdb
