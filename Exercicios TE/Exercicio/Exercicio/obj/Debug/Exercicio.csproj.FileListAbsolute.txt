@@ -1,0 +1,10 @@
+C:\Users\ronald.pereira\Desktop\Exercicios TE\Exercicio\Exercicio\bin\Debug\Exercicio.exe.config
+C:\Users\ronald.pereira\Desktop\Exercicios TE\Exercicio\Exercicio\bin\Debug\Exercicio.exe
+C:\Users\ronald.pereira\Desktop\Exercicios TE\Exercicio\Exercicio\bin\Debug\Exercicio.pdb
+C:\Users\ronald.pereira\Desktop\Exercicios TE\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.AssemblyReference.cache
+C:\Users\ronald.pereira\Desktop\Exercicios TE\Exercicio\Exercicio\obj\Debug\Exercicio.frmMedias.resources
+C:\Users\ronald.pereira\Desktop\Exercicios TE\Exercicio\Exercicio\obj\Debug\Exercicio.Properties.Resources.resources
+C:\Users\ronald.pereira\Desktop\Exercicios TE\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.GenerateResource.cache
+C:\Users\ronald.pereira\Desktop\Exercicios TE\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\ronald.pereira\Desktop\Exercicios TE\Exercicio\Exercicio\obj\Debug\Exercicio.exe
+C:\Users\ronald.pereira\Desktop\Exercicios TE\Exercicio\Exercicio\obj\Debug\Exercicio.pdb
