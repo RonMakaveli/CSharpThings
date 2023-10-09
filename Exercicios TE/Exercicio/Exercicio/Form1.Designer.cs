@@ -1,4 +1,6 @@
-﻿namespace Exercicio
+﻿using System;
+
+namespace Exercicio
 {
     partial class frmMedias
     {
@@ -29,18 +31,18 @@
         private void InitializeComponent()
         {
             this.lblNome = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
+            this.lblMateria = new System.Windows.Forms.Label();
             this.lblNota1 = new System.Windows.Forms.Label();
             this.lblNota2 = new System.Windows.Forms.Label();
             this.lblNota3 = new System.Windows.Forms.Label();
             this.lblMedia = new System.Windows.Forms.Label();
             this.txtNome = new System.Windows.Forms.TextBox();
             this.txtMat = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.BoxNota1 = new System.Windows.Forms.TextBox();
+            this.BoxNota2 = new System.Windows.Forms.TextBox();
+            this.BoxNota3 = new System.Windows.Forms.TextBox();
             this.lblMedCalc = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.situacao = new System.Windows.Forms.Label();
             this.btnCalcMed = new System.Windows.Forms.Button();
             this.btnLimpar = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -56,15 +58,15 @@
             this.lblNome.Text = "Nome do estudante:";
             this.lblNome.Click += new System.EventHandler(this.label1_Click);
             // 
-            // label2
+            // lblMateria
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Arial Narrow", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(12, 114);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(261, 37);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Matéria / disciplina:";
+            this.lblMateria.AutoSize = true;
+            this.lblMateria.Font = new System.Drawing.Font("Arial Narrow", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMateria.Location = new System.Drawing.Point(12, 114);
+            this.lblMateria.Name = "lblMateria";
+            this.lblMateria.Size = new System.Drawing.Size(261, 37);
+            this.lblMateria.TabIndex = 1;
+            this.lblMateria.Text = "Matéria / disciplina:";
             // 
             // lblNota1
             // 
@@ -100,7 +102,7 @@
             // 
             this.lblMedia.AutoSize = true;
             this.lblMedia.Font = new System.Drawing.Font("Arial Narrow", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMedia.Location = new System.Drawing.Point(509, 204);
+            this.lblMedia.Location = new System.Drawing.Point(521, 204);
             this.lblMedia.Name = "lblMedia";
             this.lblMedia.Size = new System.Drawing.Size(111, 37);
             this.lblMedia.TabIndex = 5;
@@ -115,6 +117,7 @@
             this.txtNome.TabIndex = 6;
             this.txtNome.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtNome.TextChanged += new System.EventHandler(this.txtNome_TextChanged);
+            this.txtNome.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtNome_KeyPress_1);
             // 
             // txtMat
             // 
@@ -124,33 +127,37 @@
             this.txtMat.Size = new System.Drawing.Size(409, 44);
             this.txtMat.TabIndex = 7;
             this.txtMat.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtMat.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtMat_KeyPress_1);
             // 
-            // textBox1
+            // BoxNota1
             // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(19, 244);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(89, 44);
-            this.textBox1.TabIndex = 8;
-            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.BoxNota1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BoxNota1.Location = new System.Drawing.Point(19, 244);
+            this.BoxNota1.Name = "BoxNota1";
+            this.BoxNota1.Size = new System.Drawing.Size(89, 44);
+            this.BoxNota1.TabIndex = 8;
+            this.BoxNota1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.BoxNota1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.BoxNota1_KeyPress);
             // 
-            // textBox2
+            // BoxNota2
             // 
-            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(177, 244);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(89, 44);
-            this.textBox2.TabIndex = 9;
-            this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.BoxNota2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BoxNota2.Location = new System.Drawing.Point(177, 244);
+            this.BoxNota2.Name = "BoxNota2";
+            this.BoxNota2.Size = new System.Drawing.Size(89, 44);
+            this.BoxNota2.TabIndex = 9;
+            this.BoxNota2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.BoxNota2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.BoxNota2_KeyPress_1);
             // 
-            // textBox3
+            // BoxNota3
             // 
-            this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.Location = new System.Drawing.Point(347, 244);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(89, 44);
-            this.textBox3.TabIndex = 10;
-            this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.BoxNota3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BoxNota3.Location = new System.Drawing.Point(347, 244);
+            this.BoxNota3.Name = "BoxNota3";
+            this.BoxNota3.Size = new System.Drawing.Size(89, 44);
+            this.BoxNota3.TabIndex = 10;
+            this.BoxNota3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.BoxNota3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.BoxNota3_KeyPress_1);
             // 
             // lblMedCalc
             // 
@@ -158,25 +165,26 @@
             this.lblMedCalc.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblMedCalc.Font = new System.Drawing.Font("Arial Narrow", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblMedCalc.ForeColor = System.Drawing.Color.ForestGreen;
-            this.lblMedCalc.Location = new System.Drawing.Point(521, 246);
+            this.lblMedCalc.Location = new System.Drawing.Point(533, 246);
             this.lblMedCalc.Name = "lblMedCalc";
             this.lblMedCalc.Size = new System.Drawing.Size(75, 39);
             this.lblMedCalc.TabIndex = 12;
             this.lblMedCalc.Text = "        ";
             this.lblMedCalc.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label1
+            // situacao
             // 
-            this.label1.AutoSize = true;
-            this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label1.Font = new System.Drawing.Font("Arial Narrow", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.ForestGreen;
-            this.label1.Location = new System.Drawing.Point(507, 299);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(103, 39);
-            this.label1.TabIndex = 13;
-            this.label1.Text = "            ";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.situacao.AutoSize = true;
+            this.situacao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.situacao.Font = new System.Drawing.Font("Arial Narrow", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.situacao.ForeColor = System.Drawing.Color.ForestGreen;
+            this.situacao.Location = new System.Drawing.Point(497, 306);
+            this.situacao.Name = "situacao";
+            this.situacao.Size = new System.Drawing.Size(155, 59);
+            this.situacao.TabIndex = 13;
+            this.situacao.Text = "            ";
+            this.situacao.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.situacao.Click += new System.EventHandler(this.situacao_Click);
             // 
             // btnCalcMed
             // 
@@ -188,6 +196,7 @@
             this.btnCalcMed.TabIndex = 14;
             this.btnCalcMed.Text = "Calcular média";
             this.btnCalcMed.UseVisualStyleBackColor = true;
+            this.btnCalcMed.Click += new System.EventHandler(this.btnCalcMed_Click);
             // 
             // btnLimpar
             // 
@@ -199,26 +208,27 @@
             this.btnLimpar.TabIndex = 15;
             this.btnLimpar.Text = "LIMPAR";
             this.btnLimpar.UseVisualStyleBackColor = true;
+            this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
             // 
             // frmMedias
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(700, 471);
+            this.ClientSize = new System.Drawing.Size(720, 471);
             this.Controls.Add(this.btnLimpar);
             this.Controls.Add(this.btnCalcMed);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.situacao);
             this.Controls.Add(this.lblMedCalc);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.BoxNota3);
+            this.Controls.Add(this.BoxNota2);
+            this.Controls.Add(this.BoxNota1);
             this.Controls.Add(this.txtMat);
             this.Controls.Add(this.txtNome);
             this.Controls.Add(this.lblMedia);
             this.Controls.Add(this.lblNota3);
             this.Controls.Add(this.lblNota2);
             this.Controls.Add(this.lblNota1);
-            this.Controls.Add(this.label2);
+            this.Controls.Add(this.lblMateria);
             this.Controls.Add(this.lblNome);
             this.Name = "frmMedias";
             this.Text = "Calcula médias";
@@ -231,18 +241,18 @@
         #endregion
 
         private System.Windows.Forms.Label lblNome;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lblMateria;
         private System.Windows.Forms.Label lblNota1;
         private System.Windows.Forms.Label lblNota2;
         private System.Windows.Forms.Label lblNota3;
         private System.Windows.Forms.Label lblMedia;
         private System.Windows.Forms.TextBox txtNome;
         private System.Windows.Forms.TextBox txtMat;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox BoxNota1;
+        private System.Windows.Forms.TextBox BoxNota2;
+        private System.Windows.Forms.TextBox BoxNota3;
         private System.Windows.Forms.Label lblMedCalc;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label situacao;
         private System.Windows.Forms.Button btnCalcMed;
         private System.Windows.Forms.Button btnLimpar;
     }
