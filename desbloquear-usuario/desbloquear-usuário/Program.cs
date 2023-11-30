@@ -7,7 +7,7 @@ namespace DesbloqueioUsuariosAD
     {
         static void Main(string[] args)
         {
-            string domainPath = "LDAP://DC=mydomain,DC=com"; // substitua pelo caminho do seu domínio
+            string domainPath = "LDAP://DC=mydomain,DC=com"; 
 
             while (true)
             {
@@ -24,23 +24,15 @@ namespace DesbloqueioUsuariosAD
 
                 searcher.Filter = $"(sAMAccountName={username})";
                 searcher.PropertiesToLoad.Add("lockoutTime");
-
                 SearchResult result = searcher.FindOne();
 
                 if (result != null)
                 {
-                    // obtém o objeto do usuário
                     DirectoryEntry userEntry = result.GetDirectoryEntry();
-
-                    // verifica se o usuário está bloqueado
                     if (userEntry.Properties["lockoutTime"].Value is long lockoutTime && lockoutTime != 0)
                     {
-                        // modifica o atributo "lockoutTime"
                         userEntry.Properties["lockoutTime"].Value = 0;
-
-                        // salva as alterações no Active Directory
                         userEntry.CommitChanges();
-
                         Console.WriteLine($"Usuário {username} desbloqueado com sucesso.");
                     }
                     else
